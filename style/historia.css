@@ -1,0 +1,28 @@
+.cabecalho {
+    padding: 2%;
+    text-align: center;
+    color: rgb(241, 241, 155);
+}
+
+.h1-historia {
+    padding-top: 5%;
+    font-size: 50px;
+}
+
+.treinando-anderson-dias {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.anderson-dias img {
+    width: 450px;
+    height: 350px;
+}
+
+footer {
+    margin-top: 5%;
+}
